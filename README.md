@@ -2,9 +2,8 @@
 
 # About me 
 
-- 👨‍🎓 Future Software Engineer
+- 👨‍🎓 Software Engineer from University of Bío-Bío.
 - 🌱 I love learning new things and facing new challenges about web development.
-- 🔭 I am currently working on my final project to get my degree
 - 📫 How to reach me: [Look at my personal portfolio](http://ignaciogonzalez.dev "Look at my personal portfolio")
 
 # My skills
