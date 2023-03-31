@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # About me 
-
+- 💻 Working at MasterBase&reg;
 - 👨‍🎓 Software Engineer from University of Bío-Bío.
 - 🌱 I love learning new things and facing new challenges about web development.
 - 📫 How to reach me: [Look at my personal portfolio](http://ignaciogonzalez.dev "Look at my personal portfolio")
